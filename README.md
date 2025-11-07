@@ -13,7 +13,7 @@ This project is a chatbot built using LangChain and Google's Gemini AI model.
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dinethjanitha/chatbot
 cd chatbot
 ```
 
